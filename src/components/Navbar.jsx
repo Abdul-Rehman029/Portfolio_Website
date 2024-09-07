@@ -32,9 +32,9 @@ const Navbar = () => {
             setActive("");
             window.scrollTo(0,0);
           }}>
-            <img src={logol} alt='logo' className="w-9 h-9 object-contain"/>
+            <img src={logol} alt="logo" className="w-12 h-12 object-contain rounded-full"/>
             <p className="text-white text-[18px] font-bold cursor-pointer flex ">
-              Harsha&nbsp;<span className="sm:block hidden">|WebDev</span>
+              AbdulRehman&nbsp;<span className="sm:block hidden">|Cyber Security Analyst</span>
             </p>
           </Link>
           <ul className='list-none hidden sm:flex flex-row gap-10 items-center right-0 '>

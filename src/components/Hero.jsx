@@ -17,16 +17,16 @@ const Hero = () => {
             </span>
             <br />
             I'm{" "}
-            <span className="text-[#915EFF] font-Andan font-thin">Harsha</span>
+            <span className="text-[#915EFF] font-Andan font-thin">AbdulRehman</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             <Typewriter
               options={{
                 strings: [
-                  "Developer",
-                  "Deep Learning Engineer",
-                  "MERN Stack Developer",
-                  "Open Source Contributor",
+                  "Python Developer",
+                  "Cyber Security Analyst",
+                  "React JS Developer",
+                  "Network Engineer",
                 ],
                 autoStart: true,
                 loop: true,
@@ -36,7 +36,7 @@ const Hero = () => {
           </p>
           <div className="mt-4">
             <a
-              href="https://github.com/HRS8/VitePort/raw/main/public/Harsha%20resume.pdf"
+              href="/home/saad/Desktop/portfolio/Portfolio_for_PR/public/Abdul Rehman.pdf"
               download
             >
               <button className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary hover:bg-black border-2 border-transparent hover:border-white-100 transition ease-in-out delay-100 duration-300 hover:scale-90">

@@ -40,9 +40,9 @@ const Contact = () => {
         'template_58rrruv',
         {
           from_name: form.name,
-          to_name: "Harsha",
+          to_name: "AbdulRehman",
           from_email: form.email,
-          to_email: "harshithvallabaneni3824@gmail.com",
+          to_email: "abdulrehman.ansari029@gmail.com",
           message: form.message,
         },
         '9GSTpi8F69U-EQzka'
@@ -62,7 +62,7 @@ const Contact = () => {
           setLoading(false);
           console.error(error);
 
-          alert("wonkers,something broke bruh x(. you can reach me at harshithvallabaneni3824@gmail.com");
+          alert("wonkers,something broke bruh x(. you can reach me at abdulrehman.ansari029@gmail.com");
         }
       );
   };
